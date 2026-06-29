@@ -1,4 +1,9 @@
-## Hi there 👋
+## B.Tech CSE student at Graphic Era Deemed to Be University (5th Sem)
+- Languages: C, C++, Python, Java
+- CPU simulation, microcoded architectures, embedded driver
+- Linux: NixOS, Gentoo, Fedora, Debian (Sticking by Gentoo for time being)
+## I do what i can, that's all 
+
 
 <!--
 **OpinionatedDeer/OpinionatedDeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
